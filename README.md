@@ -1,5 +1,7 @@
 # CountryWar Minecraft Plugin
 
+[![Modrinth](https://img.shields.io/badge/Modrinth-Available_Now-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/plugin/countrywar)
+
 **STILL IN VERY ALPHA** (Open issues here if you encounter any)
 
 SharpnessMC inspired , a comprehensive team-based country war plugin for Minecraft servers. Features include dynamic health scaling for leaders, territory protection, supply drops, voting systems, and more!
