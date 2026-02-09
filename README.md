@@ -40,10 +40,9 @@ SharpnessMC inspired , a comprehensive team-based country war plugin for Minecra
 
 ## Installation
 
-1. Build the plugin using one of the methods above
-2. Copy `CountryWar.jar` to your server's `plugins` folder
-3. Restart your Minecraft server
-4. Configure in `plugins/CountryWar/config.yml`
+1. Copy `CountryWar.jar` to your server's `plugins` folder
+2. Restart your Minecraft server
+3. Configure in `plugins/CountryWar/config.yml`
 
 ## Commands
 
